@@ -1,6 +1,6 @@
 //Store all constants data.
 export const FOOD_STDUIO_LOGO =
-  "https://corsproxy.io/?https://food-studio.co.za/wp-content/uploads/2019/08/Food-Studio-Logo.png";
+  "https://food-studio.co.za/wp-content/uploads/2019/08/Food-Studio-Logo.png";
 
 export const IMG_CDN_URL =
   "https://corsproxy.io/?https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
